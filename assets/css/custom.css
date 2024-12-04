@@ -65,6 +65,7 @@ swiper-container {
 .banner-icons .follow{
    position: absolute;
    z-index: 999;
+   
 }
 .banner-icons .heart{
    right: -50px;
@@ -75,4 +76,5 @@ swiper-container {
 .banner-icons .notifications{
    bottom: -200px;
    left: 200px;
+   width: 60px;
 }
