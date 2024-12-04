@@ -13,6 +13,7 @@ body {
   font-size: 15px;
   color: #a3a1a9;
   background-color: #ffffff;
+  cursor: url(../images/mouse.png), auto;
 }
 
 img {
@@ -38,7 +39,7 @@ textarea:focus {
 
 button {
   background-color: transparent;
-  cursor: pointer;
+  cursor: url(../images/cursor.png), auto;
 }
 
 h1,
@@ -673,7 +674,7 @@ hr {
   text-align: center;
   font-size: 18px;
   line-height: 40px;
-  cursor: pointer;
+  cursor: url(../images/cursor.png), auto;
   opacity: 0;
   visibility: hidden;
   background-color: #292e7a ;
@@ -948,7 +949,7 @@ hr {
   font-size: 18px;
   text-transform: capitalize;
   line-height: 50px;
-  cursor: pointer;
+  cursor: url(../images/cursor.png), auto;
   font-family: "Jost", sans-serif;
   font-weight: 500;
   color: #1c1c1c;
@@ -1043,7 +1044,7 @@ hr {
 .hamburger_button {
   line-height: 100px;
   position: relative;
-  cursor: pointer;
+  cursor: url(../images/cursor.png), auto;
   height: 20px;
   width: 20px;
 }
@@ -1129,7 +1130,7 @@ hr {
   position: absolute;
   height: 50px;
   text-align: center;
-  cursor: pointer;
+  cursor: url(../images/cursor.png), auto;
 }
 .mobile-menu li.menu-item-has-children .menu-expand i {
   display: block;
@@ -2098,7 +2099,7 @@ hr {
   font-weight: 500;
   color: #292e7a ;
   background: -webkit-linear-gradient(-45deg, #4526b1 0%, #5435be 45%, #292e7a  66%);
-  -webkit-background-clip: text;
+  --webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 @media only screen and (max-width: 575px) {
@@ -3934,15 +3935,24 @@ hr {
   bottom: -520px;
   right: 0px;
 }
-
+.service-section.service-three.section-padding{
+  background: url(../images/bg-service.jpg);
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
 .single-service {
-  background-color: white;
+  background-color: transparent;
   box-shadow: 0px 12px 42px rgba(69, 38, 177, 0.1), 11px 6px 25px rgba(69, 38, 177, 0.1);
+  border-top: 5px solid #fa3b80;
+  border-right: 5px solid #fa3b80;
+  border-bottom: 3px solid #fbb827;
   padding: 70px;
-  border-top: 5px solid #4526b1;
   border-radius: 0 0 20px 20px;
   z-index: 1;
   position: relative;
+  backdrop-filter: blur(30px);
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .single-service {
@@ -3969,7 +3979,7 @@ hr {
   font-size: 18px;
   font-weight: 400;
   line-height: 1.7;
-  color: #54545f;
+  color: #f1f1f1;
   margin-top: 30px;
   max-width: 510px;
   margin-bottom: 0px;
