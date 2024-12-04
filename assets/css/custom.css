@@ -26,16 +26,7 @@ swiper-container {
     padding: 4rem 0;
     box-shadow: rgba(0, 0, 0, 0.05) 0px 6px 24px 0px, rgba(0, 0, 0, 0.08) 0px 0px 0px 1px;
  }
- .swip{
-    position: relative;
- }
- .swip img{
-    position: absolute;
-    bottom: -100px;
-    transform: rotate(-90deg);
-    right: -600px;
- }
-
+ 
 /* ============================== */
 /* End Swiper JS */
 /* ============================== */
