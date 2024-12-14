@@ -116,7 +116,7 @@ swiper-container {
    /* height: 150px; */
    height: 100%;
    /* background: linear-gradient(180deg, rgba(0,0,0,0) 0%, rgb(0,0,0) 100%); */
-   background: linear-gradient(#ee4763 ,#b9208c   );
+   background: linear-gradient(135deg, #2a2f7a ,#b9208c   );
    z-index: -1;
 
 }
@@ -160,7 +160,7 @@ swiper-container {
    margin-top: 0px;
 }
 #swiper .swiper-slide-active .t-b-img img{
-   /* filter: grayscale(0) !important; */
+   filter: grayscale(0) !important;
    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
 }
  
