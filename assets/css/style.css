@@ -734,11 +734,14 @@ hr {
 @media only screen and (max-width: 767px) {
   .logo {
     width: 160px;
+    
   }
 }
 @media only screen and (max-width: 575px) {
   .logo {
     width: 140px;
+    
+    
   }
 }
 @media only screen and (max-width: 479px) {
@@ -3942,11 +3945,10 @@ hr {
   right: 0px;
 }
 .service-section.service-three.section-padding{
-  background: url(../images/bg-service.jpg);
-  background-attachment: fixed;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
+  background: #fff !important;
+  margin-top: 0 !important;
+  padding: 50px !important;
+ 
 }
 .single-service {
   background-color: transparent;

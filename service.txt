@@ -1,0 +1,129 @@
+
+    <!-- Service Section Start -->
+    <div class="service-section service-three section-padding">
+        <div class="container">
+            <div class="row">
+                <div class="col-12 wow fadeIn" data-wow-duration=".7s" data-wow-delay=".1s">
+                    <!-- Section Title Start -->
+                    <div class="section-title-center section-head text-center">
+                        <span class="subtitle service-sub-title">Service</span>
+                        <h2 class="title service-title">What We Do</h2>
+                        <p class="text mx-auto">We deliver innovative business ideas and expert digital marketing
+                            services to help your brand grow online</p>
+                    </div>
+                    <!-- Section Title End  -->
+                </div>
+            </div>
+            <div class="row row-cols-xl-3 row-cols-lg-2 row-cols-md-2 row-cols-1 mb-n25">
+                <div class="col mb-25 wow fadeIn" data-wow-duration="1.5s" data-wow-delay=".1s">
+                    <!-- Single Service Start -->
+                    <div class="single-service">
+                        <div class="single-service-top">
+                            <div class="icon">
+                                <img src="assets/images/services-icon/smm.png" alt="icon">
+                            </div>
+                            <h4 class="title sercice-heaing">
+                                <a href="service-details.html">SOCIAL MEDIA MARKETING</a>
+                            </h4>
+                        </div>
+                        <p class="single-service-text">Social media marketing helps businesses boost brand awareness,
+                            engagement, and drive targeted traffic</p>
+                        <a class="readmore-btn service-btn" href="service-details.html"><i
+                                class="fas fa-angle-right"></i> Read More</a>
+                    </div>
+                    <!-- Single Service End -->
+                </div>
+                <div class="col mb-25 wow fadeIn" data-wow-duration="1.5s" data-wow-delay=".3s">
+                    <!-- Single Service Start -->
+                    <div class="single-service">
+                        <div class="single-service-top">
+                            <div class="icon">
+                                <img src="assets/images/services-icon/seo.png" alt="icon">
+                            </div>
+                            <h4 class="title sercice-heaing">
+                                <a href="service-details.html">Search Engine Optimization</a>
+                            </h4>
+                        </div>
+                        <p class="single-service-text service-text">SEO service boosts your website’s ranking, drives
+                            organic traffic, enhances visibility, and supports overall growth</p>
+                        <a class="readmore-btn service-btn" href="service-details.html"><i
+                                class="fas fa-angle-right"></i> Read More</a>
+                    </div>
+                    <!-- Single Service End -->
+                </div>
+                <div class="col mb-25 wow fadeIn" data-wow-duration="1.5s" data-wow-delay=".1s">
+                    <!-- Single Service Start -->
+                    <div class="single-service">
+                        <div class="single-service-top">
+                            <div class="icon">
+                                <img src="assets/images/services-icon/branding.png" alt="icon">
+                            </div>
+                            <h4 class="title sercice-heaing">
+                                <a href="service-details.html">Branding &amp; Design</a>
+                            </h4>
+                        </div>
+                        <p class="single-service-text service-text">Branding &amp; Design service creates unique,
+                            impactful identities that resonate with your audience and drive growth </p>
+                        <a class="readmore-btn service-btn" href="service-details.html"><i
+                                class="fas fa-angle-right"></i> Read More</a>
+                    </div>
+                    <!-- Single Service End -->
+                </div>
+                <div class="col mb-25 wow fadeIn" data-wow-duration="1.5s" data-wow-delay=".3s">
+                    <!-- Single Service Start -->
+                    <div class="single-service">
+                        <div class="single-service-top">
+                            <div class="icon">
+                                <img src="assets/images/services-icon/video-production.png" alt="icon">
+                            </div>
+                            <h4 class="title sercice-heaing">
+                                <a href="service-details.html">Video <br> Production </a>
+                            </h4>
+                        </div>
+                        <p class="single-service-text service-text">Video Production service creates engaging,
+                            high-quality videos that tell your brand’s story and drive meaningful results</p>
+                        <a class="readmore-btn service-btn" href="service-details.html"><i
+                                class="fas fa-angle-right"></i> Read More</a>
+                    </div>
+                    <!-- Single Service End -->
+                </div>
+                <div class="col mb-25 wow fadeIn" data-wow-duration="1.5s" data-wow-delay=".1s">
+                    <!-- Single Service Start -->
+                    <div class="single-service">
+                        <div class="single-service-top">
+                            <div class="icon">
+                                <img src="assets/images/services-icon/web-development.png" alt="icon">
+                            </div>
+                            <h4 class="title sercice-heaing">
+                                <a href="service-details.html">Web Design &amp; Development</a>
+                            </h4>
+                        </div>
+                        <p class="single-service-text">Web Design &amp; Development service builds user-friendly,
+                            responsive websites that enhance your online presence and performance</p>
+                        <a class="readmore-btn service-btn" href="service-details.html"><i
+                                class="fas fa-angle-right"></i> Read More</a>
+                    </div>
+                    <!-- Single Service End -->
+                </div>
+                <div class="col mb-25 wow fadeIn" data-wow-duration="1.5s" data-wow-delay=".3s">
+                    <!-- Single Service Start -->
+                    <div class="single-service">
+                        <div class="single-service-top">
+                            <div class="icon">
+                                <img src="assets/images/services-icon/content-marketing.png" alt="icon">
+                            </div>
+                            <h4 class="title sercice-heaing">
+                                <a href="service.html">Content Marketing</a>
+                            </h4>
+                        </div>
+                        <p class="single-service-text">Content Marketing service creates valuable, engaging content that
+                            drives traffic, builds brand authority, and boosts conversions</p>
+                        <a class="readmore-btn service-btn" href="service.html"><i class="fas fa-angle-right"></i> Read
+                            More</a>
+                    </div>
+                    <!-- Single Service End -->
+
+                </div>
+            </div>
+        </div>
+    </div>

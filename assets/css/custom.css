@@ -1,3 +1,9 @@
+
+.logo{
+   width: 250px;
+}
+
+
 /* ============================== */
 /* Swiper JS */
 /* ============================== */
@@ -189,3 +195,87 @@ swiper-container {
 /* =============================== */
 /* End Whats app*/
 /* =============================== */
+
+/* =============================== */
+/* Services*/
+/* =============================== */
+.services-bx{
+   width: 100%;
+   height: 80vh;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   background: #fff;
+   margin: 1.5rem 0;
+   padding: 1rem;
+}
+.services-bx.br-grey{
+   background: #f4f4f4 !important;
+}
+.service-content{
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   justify-content: center;
+   text-align: start;
+}
+.service-content p{
+   font-size: 1rem;
+}
+.img-bx{
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   width: 500px;
+}
+.service-img{
+   display: block;
+   width: 100%;
+}
+.service-hm-bx{
+   background: linear-gradient(to bottom,#b9208c 35%, #ee4763);
+   box-shadow:  0 0 8px #b9208c;
+   border-radius: 20px;
+   margin-bottom: 2rem;
+   width: 250px;
+   height: 250px;
+   padding: 1rem;
+}
+.service-hm-bx .s-hm-img-bx{
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   margin-top: 1rem;
+   margin-bottom: 0.5rem;
+}
+.service-hm-bx .s-hm-content {
+   text-align: center;
+}
+.service-hm-bx .s-hm-content a{
+   text-decoration: none;
+}
+.service-hm-bx .s-hm-content a h2{
+   font-size: 1.5rem;
+   color: #fff;
+}
+@media (max-width: 991px){
+ 
+   .img-bx{
+      width: 300px;
+   }
+   
+}
+@media (max-width: 776px){
+   .services-bx{
+      height: auto;
+   }
+   .service-image{
+      display: flex;
+      align-items: center;
+      justify-content: center;
+   }
+   .img-bx{
+      width: 250px;
+   }
+   
+}
